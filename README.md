@@ -9,6 +9,8 @@ Latest versions of Internet Explorer, Chrome, FireFox are tested via automated t
 [![browser support](https://ci.testling.com/sahilm/reddit.js.png)
 ](https://ci.testling.com/sahilm/reddit.js)
 
+**[Demo](http://plnkr.co/FopV2q)**
+
 # Usage
 
 Reddit.js is a lightweight dependency-free library which comes with minified source. Include the minified source with a script tag.
